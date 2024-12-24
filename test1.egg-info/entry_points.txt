@@ -1,0 +1,3 @@
+[console_scripts]
+test1-script1 = scripts.script1:main
+test1-script2 = scripts.script2:main

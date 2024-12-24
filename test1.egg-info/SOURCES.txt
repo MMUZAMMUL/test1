@@ -1,0 +1,17 @@
+MANIFEST.in
+README.md
+requirements.txt
+setup.py
+my_package/__init__.py
+my_package/module1.py
+my_package/module2.py
+scripts/__init__.py
+scripts/script1.py
+scripts/script2.py
+test1.egg-info/PKG-INFO
+test1.egg-info/SOURCES.txt
+test1.egg-info/dependency_links.txt
+test1.egg-info/entry_points.txt
+test1.egg-info/top_level.txt
+tests/test_module1.py
+tests/test_module2.py
