@@ -1,1 +1,4 @@
-print("Executing test1/tests/test_module1.py")
+def test_module1():
+    print("Testing module1")
+def greet():
+    print("greet1")

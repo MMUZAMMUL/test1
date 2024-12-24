@@ -1,1 +1,4 @@
-print("Executing test1/my_package/module2.py")
+def main():
+    print("Executing module2")
+if __name__ == "__main__":
+    main()
