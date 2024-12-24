@@ -1,1 +1,2 @@
-print("Executing test1/scripts/script1.py")
+def main():
+    print("Running script1 from test1 package.")
